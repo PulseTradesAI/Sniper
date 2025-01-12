@@ -1,7 +1,7 @@
 import requests
 
 API_KEY = "ABc1dE2fG3hI4jK5lM6nO7pQ"
-API_SECRET = "Zx98mN65jL4kI3hG2fE1dC0bA"
+
 
  {
     'X-MBX-APIKEY': API_KEY
