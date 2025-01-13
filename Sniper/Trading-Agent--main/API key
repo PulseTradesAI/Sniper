@@ -1,8 +1,0 @@
-import requests
-
-API_KEY = "ABc1dE2fG3hI4jK5lM6nO7pQ"
-
-
- {
-    'X-MBX-APIKEY': API_KEY
-}
