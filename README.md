@@ -26,7 +26,7 @@ npm install
 2. Configure environment variables in `.env`:
 ```
 TRADING_API_KEY=your_api_key
-SOLANA_RPC_ENDPOINT=your_rpc_endpoint
+SOLANA_RPC_ENDPOINT=(https://api.mainnet-beta.solana.com)
 SOLANA_WALLET_KEY=your_wallet_key
 ```
 
